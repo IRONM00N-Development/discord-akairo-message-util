@@ -1,4 +1,4 @@
-declare module 'discord-akairo' {
+declare module 'discord-akairo-message-util' {
 	import { CommandUtil } from 'discord-akairo';
 
 	module 'discord.js' {
