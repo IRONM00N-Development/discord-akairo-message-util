@@ -1,5 +1,5 @@
 {
-  "name": "discord-akairo-message-util",
+  "name": "@notenoughupdates/discord-akairo-message-util",
   "version": "1.0.0",
   "main": "index.js",
   "typings": "index.d.ts",
